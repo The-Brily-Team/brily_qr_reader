@@ -1,6 +1,6 @@
 name: brily_qr_reader
 description: QR code (scan QRCode and picture) recognition （AndroidView/UiKitView）
-version: 0.0.4
+version: 0.0.5
 homepage: https://github.com/The-Brily-Team/brily_qr_reader
 
 environment:
