@@ -1,25 +1,14 @@
-## 0.0.1 
+## 0.0.3
 
-*3-25-2020*
+*31-10-2020*
+- bug fix
+
+## 0.0.2 
+
+*31-10-2020*
+- bug fix
+
+## 0.0.1
+
+*31-10-2020*
 - modify original library to meet our business requirement.
-
-## 1.0.0 
-
-*3-26-2020*
-- improve dependencies version and make the package to release version.
-
-## 1.0.1
-
-*3-26-2020*
-- delete some useless code to reduce size.
-- refactor the export content structure.
-
-## 2.0.0
-
-*3-30-2020*
-- upgrade dependent package permission_handler to latest
-
-## 2.0.1
-
-*10-21-2020*
-- fix `podspec` name for the package

@@ -1,6 +1,8 @@
-*This is a forked package from @hetian9288*
+*This is a forked package from @SeasonLeee*
 
-# super_qr_reader
+*It only removes the Chinese text*
+
+# brily_qr_reader
 
 QR code (scan code &#x2F; picture) recognition （AndroidView&#x2F;UiKitView）
 
@@ -12,7 +14,7 @@ QR code (scan code &#x2F; picture) recognition （AndroidView&#x2F;UiKitView）
 ## Getting Started
 
 ```dart
-import 'package:super_qr_reader/scan_view.dart';
+import 'package:brily_qr_reader/brily_qr_reader.dart';
 
 class HomePage extends StatefulWidget {
   HomePage({Key key}) : super(key: key);

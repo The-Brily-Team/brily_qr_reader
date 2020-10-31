@@ -144,14 +144,14 @@ class QrcodeReaderViewState extends State<QrcodeReaderView>
 
   final flashOpen = Image.asset(
     "assets/tool_flashlight_open.png",
-    package: "super_qr_reader",
+    package: "brily_qr_reader",
     width: 35,
     height: 35,
     color: Colors.white,
   );
   final flashClose = Image.asset(
     "assets/tool_flashlight_close.png",
-    package: "super_qr_reader",
+    package: "brily_qr_reader",
     width: 35,
     height: 35,
     color: Colors.white,
@@ -255,7 +255,7 @@ class QrcodeReaderViewState extends State<QrcodeReaderView>
                               alignment: Alignment.center,
                               child: Image.asset(
                                 "assets/tool_img.png",
-                                package: "super_qr_reader",
+                                package: "brily_qr_reader",
                                 width: 25,
                                 height: 25,
                                 color: Colors.white54,

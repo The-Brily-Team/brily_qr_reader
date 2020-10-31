@@ -1,8 +1,7 @@
-name: super_qr_reader
+name: brily_qr_reader
 description: QR code (scan QRCode and picture) recognition （AndroidView/UiKitView）
-version: 2.0.1
-authors: ['Benjamin Li<jijileeeeeee@gmail.com>', 'Peter Guo<1448373124@qq.com>']
-homepage: https://github.com/SeasonLeee/super_qr_reader
+version: 0.0.3
+homepage: https://github.com/The-Brily-Team/brily_qr_reader
 
 environment:
   sdk: ">=2.2.2 <3.0.0"
@@ -31,8 +30,9 @@ flutter:
     platforms:
       android:
         package: me.hetian.flutter_qr_reader
+        pluginClass: FlutterQrReaderPlugin
       ios:
-        pluginClass: HelloPlugin
+        pluginClass: FlutterQrReaderPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:

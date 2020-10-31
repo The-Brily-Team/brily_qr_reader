@@ -1,6 +1,6 @@
-# super_qr_reader_example
+# brily_qr_reader_example
 
-Demonstrates how to use the super_qr_reader package.
+Demonstrates how to use the brily_qr_reader package.
 
 ## Getting Started
 
